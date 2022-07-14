@@ -1,2 +1,1 @@
-# Big_Data
-Python, mrjob
+# KCL Big Data Coursework
