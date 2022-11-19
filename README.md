@@ -1,1 +1,1 @@
-# KCL Big Data Coursework
+# Big Data Coursework
